@@ -16,5 +16,5 @@ resource "random_pet" "cheetah" {
 resource "random_pet" "horse" {
 }
 
-resource "random_pet" "zebra" {
-}
+#resource "random_pet" "zebra" {
+#}
